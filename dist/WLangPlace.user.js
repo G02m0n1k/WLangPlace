@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WLangPlace
-// @namespace    https://github.com/G02m0n1k/
-// @version      0.41
+// @namespace    https://github.com/G02m0n1k/WLangPlace/
+// @version      0.42
 // @description  Script for using custom translations for Wplace.
 // @author       G02m0n1k & KUsHa
 // @icon         https://raw.githubusercontent.com/G02m0n1k/WLangPlace/refs/heads/main/assets/icon.png
