@@ -129,6 +129,7 @@
 # "Move/#$/" = "Двиг./#$/" --- At the moment this value is a trigger for scripts of wplace.live itself
 "Unlock" = "Разблокировать"
 "Permanently unlock the color" = "Разблокировать новый цвет"
+" Unlocked " = " Открыто "
 
 ##### COLORS #####
 "Black" = "Черный"
