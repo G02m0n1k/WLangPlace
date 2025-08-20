@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         WLangPlace
-// @namespace    https://github.com/G02m0n1k/WLangPlace/
-// @version      0.42
+// @namespace    https://github.com/G02m0n1k/WLangPlace
+// @version      0.43
 // @description  Script for using custom translations for Wplace.
 // @author       G02m0n1k & KUsHa
 // @license      BSD-3-Clause
+// @supportURL   https://t.me/WLangPlace
+// @homepageURL  https://github.com/G02m0n1k/WLangPlace
 // @icon         https://raw.githubusercontent.com/G02m0n1k/WLangPlace/refs/heads/main/assets/icon.png
 // @updateURL    https://raw.githubusercontent.com/G02m0n1k/WLangPlace/refs/heads/main/dist/WLangPlace.user.js
 // @downloadURL  https://raw.githubusercontent.com/G02m0n1k/WLangPlace/refs/heads/main/dist/WLangPlace.user.js
