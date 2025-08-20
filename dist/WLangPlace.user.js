@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         WLangPlace
 // @namespace    https://github.com/G02m0n1k/
-// @version      0.40
+// @version      0.41
 // @description  Script for using custom translations for Wplace.
 // @author       G02m0n1k & KUsHa
 // @icon         https://raw.githubusercontent.com/G02m0n1k/WLangPlace/refs/heads/main/assets/icon.png
+// @updateURL    https://raw.githubusercontent.com/G02m0n1k/WLangPlace/refs/heads/main/dist/WLangPlace.user.js
+// @downloadURL  https://raw.githubusercontent.com/G02m0n1k/WLangPlace/refs/heads/main/dist/WLangPlace.user.js
 // @match        https://wplace.live/*
 // @grant        GM_xmlhttpRequest
 // @connect      raw.githubusercontent.com
