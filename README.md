@@ -41,7 +41,7 @@ Install using Tampermonkey and [direct link](https://raw.githubusercontent.com/G
 After installing the script, a field will appear in your **profile**, as in the photo below  
 
 <img src="docs/1.png" alt="s1" width="280px"><br>  
-In this field you will need to enter the path to **your** RAW file with the custom translation.  
+In this field you will need to enter the path to **your** RAW file with the custom translation (GitHub recommended).  
 
 After that, you will need to click on the check mark to the right of the field. If everything went smoothly, the translation will be applied.  
 
