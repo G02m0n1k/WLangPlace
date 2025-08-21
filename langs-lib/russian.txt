@@ -220,9 +220,8 @@
 "Location unfavorited" = "Место убрано из Избранных"
 "Image copied to clipboard" = "Изображение скопировано в буфер обмена"
 "No more charges" = "Краски больше нет"
-"/#$/You don't have charges to paint./#$/" = "/#$/У вас нету красок./#$/"
-"/#$/ Next charge in /#$/" = "/#$/ Попробуйте через /#$/"
-"Refresh your page to get the latest update" = "Обновите страницу для обновления Wplace"
+"You don't have charges to paint. <br> Next charge in /#$/" = "У вас нету краски. <br> Попробуйте через /#$/"
+"Refresh your page to get the latest update" = "Перезагрузите страницу для обновления Wplace"
 "Logged out" = "Вы вышли из аккаунта"
 
 # OTHER
